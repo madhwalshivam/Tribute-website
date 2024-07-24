@@ -1,0 +1,65 @@
+.container{
+    background-color: #E5E5fd;
+    border: 10px solid black;
+}
+.header{
+    text-align: center;
+    
+    margin:0px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .header h2{
+        font-size: 40px;
+        color: rgb(41, 31, 31);
+    
+    }
+    .header p{
+        font-size: 20px;
+    
+    }
+    .header img{
+        border-radius: 6px;
+        height: 350px;
+        width: 550px;
+        margin-top: 40px;
+    }
+    .biography {
+    background-color: rgba(233, 227, 227, 0.3);
+    
+    margin: 0 30px;
+    padding: 0 30px;
+    }
+    .biography h3{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+        margin-top: 70px;
+    }
+    .personalLif img{
+    height: 300px;
+    width: 250px;
+    float: right;
+    padding: 30px;
+    }
+    .footer{
+        padding: 30px;
+        background-color: rgba(233, 227, 227, 0.3);
+    
+    text-align: center;
+    
+    }
+    .footer p{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .footer p a{
+        text-decoration: none;
+        color: black;
+    
+    }
+    .footer p a :hover{
+        color: rgb(174, 143, 204);
+        
+    }
